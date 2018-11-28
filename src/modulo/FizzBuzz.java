@@ -26,6 +26,10 @@ package modulo;
 **/
 
 public class FizzBuzz {
-
+	for (int i = 0; i < 21; i++) {
+		if () {
+			
+		}
+	}
 }
 
